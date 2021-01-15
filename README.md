@@ -8,7 +8,7 @@ This class is responsible for managing the state of the tic tac toe board. You w
 This class represents a player of the game.
 # Cell.java
 Represent a cell of the board which can be occupied by a Player.
-# Core.class
+# Core.java
 It contains all of the above in one file
 
 
