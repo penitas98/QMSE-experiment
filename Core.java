@@ -54,8 +54,7 @@ public class Core {
 
 					// flip the current turn and continue
 
-					flipCurrentTurn();
-					;
+					flipCurrentTurn();;
 
 				}
 
@@ -87,7 +86,7 @@ public class Core {
 
 
 	            }
-	   finished = true;
+	            finished = true;
 
 
 	   }
