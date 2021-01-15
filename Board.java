@@ -52,8 +52,7 @@ public class Board {
 
 				// flip the current turn and continue
 
-				flipCurrentTurn();
-				;
+				flipCurrentTurn();;
 
 			}
 
@@ -85,7 +84,7 @@ private void clearCells() {
 
 
             }
-   finished = true;
+   	    finished = true;
 
 
    }
