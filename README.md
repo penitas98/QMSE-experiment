@@ -6,8 +6,11 @@ You will be provided with 3 classes at the core of the application:
 This class is responsible for managing the state of the tic tac toe board. You will find here logic dedicated to the game itself. Creation of the board, marking of the cells and detection of a player victory for example.
 # Player.java
 This class represents a player of the game.
-# Cell.class
+# Cell.java
 Represent a cell of the board which can be occupied by a Player.
+# Core.class
+It contains all of the above in one file
+
 
 You have been asked to perform a code review on those files, the time limit is 30 minutes. 
 Take notes of issues, bad practice and other mistakes you might see in those classes and if you finished earlier than the 30 minutes mark, add the time to the review file. 
